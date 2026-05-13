@@ -1,6 +1,7 @@
 # 🧪 Hi, I'm a QA Automation Engineer!
 
-![Automation Testing](https://media.giphy.com/media/kH6iQYcyKD7nyPsxNO/giphy.gif)
+<img width="480" height="360" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" src="https://github.com/user-attachments/assets/d31161ae-1e62-4605-9f77-f9507dfbb393" />
+
 
 #### Hey there, fellow devs 👨‍💻
 
