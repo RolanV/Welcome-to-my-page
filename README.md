@@ -68,7 +68,6 @@ My mission: **85% test coverage, 3% flakiness, zero critical bugs escaped.**
 - 💼 [LinkedIn](https://linkedin.com/in/rolanv)
 - 🐙 [GitHub](https://github.com/rolanv)
 - 📧 Email: [rolan.vataev.qa@gmail.com](mailto:rolan.vataev.qa@gmail.com)
-- 📱 Phone: (646) 331-3415
 
 ---
 
